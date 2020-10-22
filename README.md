@@ -6,5 +6,3 @@ This way, you can expose a local webserver on a public IP, a la `ngrok`.
 
 ## todo
 * TESTS!
-* docker image
-* CI
